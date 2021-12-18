@@ -1,2 +1,2 @@
-# machine-learning-and-ensemble-for-AGB
-Machine learning and ensemble estimate for above-ground biomass estimation
+# Machine learning and ensemble analysis for AGB
+Machine learning and ensemble analysis estimate for predicting above-ground biomass (AGB)
