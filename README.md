@@ -9,5 +9,5 @@ The code contains following:
 5. Data analysis (includes manuscript and supplementary materials figures)
 
 Code 1-4 are coded in 'R', whereas 5 is coded in 'python'.
-Analysis that is not covered in above code were done using either ArcGIS or ERDAS Imagine.
+Most of the spatial analysis/mapping that are not included above were done using either ArcGIS or ERDAS Imagine.
 
