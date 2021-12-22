@@ -18,7 +18,7 @@ library(randomForest)
 # Training k-NN model
 #######################################################################
 
-trctrl <- trainControl(method = "repeatedcv", number = 5, repeats = 5)
+trctrl <- trainControl(method = "repeatedcv", number = 5, repeats = 3)
 # https://www.rdocumentation.org/packages/caret/versions/6.0-84/topics/trainControl
 # http://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/
 #set.seed(333)
