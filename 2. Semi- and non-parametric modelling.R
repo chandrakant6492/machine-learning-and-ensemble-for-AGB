@@ -194,7 +194,7 @@ b <- train(Chave~(Band_3) + (Band_7) + (Band_8) + (BaCo_3_2) + (BaCo_5_2) +
              (BaCo_5_3) + (BaCo_5_4) + (BaCo_8_2) + (BaCo_8A_2), 
            data = data,
            method = "glm",
-           trControl = trainControl(method = "repeatedcv", number = 5, repeats = 5)
+           trControl = trainControl(method = "repeatedcv", number = 5, repeats = 3)
 )
 
 
