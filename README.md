@@ -6,7 +6,7 @@ The code contains following:
 2. Modelling techniques (GAMM, kNN, SVM, ANN and RF)
 3. Spatial autocorrelation
 4. Sensitivity analysis
-5. Data analysis (includes manuscript and supplementary materials figures)
+5. Data analysis (includes analysing figures from manuscript and supplementary materials)
 
 Code 1-4 are coded in 'R', whereas 5 is coded in 'python'.
 Most of the spatial analysis/mapping that are not included above were done using either ArcGIS or ERDAS Imagine.
