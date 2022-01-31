@@ -13,3 +13,8 @@ The code contains following:
 Code 1-4 are coded in 'R', whereas 5 is coded in 'python'.
 Most of the spatial analysis/mapping that are not included above were done using either ArcGIS or ERDAS Imagine.
 
+\
+*Coded by:*\
+Chandrakant Singh\
+Stockholm Resilience Centre, Stockholm University\
+Contact: chandrakant.singh@su.se
